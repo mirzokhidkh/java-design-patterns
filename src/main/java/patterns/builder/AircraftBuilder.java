@@ -1,6 +1,6 @@
 package patterns.builder;
 
-public class AircraftBuilder {
+public abstract class AircraftBuilder {
     public void buildEngine() {
 
     }
