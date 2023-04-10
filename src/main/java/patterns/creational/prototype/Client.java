@@ -1,7 +1,7 @@
-package patterns.prototype;
+package patterns.creational.prototype;
 
-import patterns.prototype.models.F16AEngine;
-import patterns.prototype.models.F16BEngine;
+import patterns.creational.prototype.models.F16AEngine;
+import patterns.creational.prototype.models.F16BEngine;
 
 public class Client {
 

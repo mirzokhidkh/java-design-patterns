@@ -1,6 +1,6 @@
-package patterns.prototype;
+package patterns.creational.prototype;
 
-import patterns.prototype.models.F16Engine;
+import patterns.creational.prototype.models.F16Engine;
 
 public interface  IAircraftPrototype {
     void fly();
